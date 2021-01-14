@@ -1,0 +1,107 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.custom-btn{
+    padding: 15px 35px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.custom-btn{
+    background-image: linear-gradient(to bottom, #FABE4C 0%, #FA804C 100%);
+    color: white;
+}
+.custom-btn i{
+    margin-right: 10px;
+}
+h1,h2{
+    font-weight: 700;
+}
+/* navbar start */
+.navbar{
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+.navbar .logo{
+    color: #FA804C;
+    font-size: 27px;
+}
+.navbar .logo .watch-color{
+    color: #FABE4C;
+}
+.custom-ul li{
+    margin-left: 25px;
+}
+
+/* navbar end */
+/* banner area start */
+#home .watch-profile{
+    width: 500px;
+}
+#home .banner-heading-1{
+    font-size: 50px;
+    font-weight: 700;
+    color: #FA804C;
+}
+#home .banner-heading-2{
+    font-size: 50px;
+    font-weight: 700;
+    color: #FABE4C;
+}
+#home p{
+    font-size: 20px;
+}
+/* banner area end */
+
+/* card area css start */
+img{
+    width: 100%;
+}
+.watch-width{
+    width: 200px;
+    margin: 5px auto;
+}
+.pioneer-watch-footer{
+    border: none;
+    background-color: white;
+}
+.watch-title{
+    color: #FA804C;
+}
+.price{
+    color: #FABE4C;
+}
+/* card area css end */
+/* services area start */
+#services .service-card{
+    padding: 5px 20px;
+    border-radius: 10px;
+    margin: 20px 5px;
+}
+#services .service-image{
+    width: 100px;
+}
+/* services area end */
+/* about area start */
+#about-us .about-text{
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-size: 18px;
+    text-align: justify;
+}
+/* about area end */
+/* delivery area start */
+#delivery .delivery-heading h2{
+    font-size: 70px;
+    font-weight: 700;
+    color: #c300ff;
+}
+#delivery .delivery-heading h1{
+    font-size: 90px;
+    font-weight: 700;
+    letter-spacing: 10px;
+    color: #c300ff;
+}
+#delivery .delivery-border{
+    border-right: 7px solid #c300ff;
+    border-radius: 10px;
+}
