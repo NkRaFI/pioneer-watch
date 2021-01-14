@@ -73,12 +73,12 @@ img{
 /* card area css end */
 /* services area start */
 #services .service-card{
-    padding: 5px 20px;
+    padding: 5px 15px;
     border-radius: 10px;
     margin: 20px 5px;
 }
 #services .service-image{
-    width: 100px;
+    width: 80px;
 }
 /* services area end */
 /* about area start */
